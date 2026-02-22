@@ -18,10 +18,11 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ### 🌐 Networking
 
-- Cisco – Introduction to Networking
+- Cisco – Introduction to Networking  
   [View Certificate](Certificates/Cisco%20-%20Networking%20Basics.pdf)
 
 - The SecOps Group - Certified Network Security Practitioner (CNSP)
+
   (In progress) 
 
 ---
@@ -29,10 +30,11 @@ These certifications complement my hands-on experience in security monitoring, i
 ### ☁️ Cloud
 
 - eLearnSecurity – Ine Certified Cloud Associate (ICCA)
+
   (Pursuing) 
 
-- Udemy – Cloud Security Knowledge
-  [View Certificate](Certificates/Udemy%20-%20Cloud%20Security.pdf) 
+- Udemy – Cloud Security Knowledge  
+  [View Certificate](Certificates/Udemy%20-%20Cloud%20Security.pdf)
 
 ---
 
