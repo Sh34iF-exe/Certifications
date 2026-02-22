@@ -8,8 +8,8 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ### Core Cybersecurity
 
-- CompTIA – Security+
-  [View Certificate](Certificates/Comptia%20-%20Security-plus.pdf)  
+- CompTIA – Security+  
+  [View Certificate](Certificates/Comptia%20-%20Security-plus.pdf)
 
 - Cisco – Introduction to Cybersecurity  
   [View Certificate](Certificates/Cisco-Introduction%20to%20Cybersecurity.pdf)
