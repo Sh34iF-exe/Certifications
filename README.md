@@ -6,17 +6,16 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-## Core Cybersecurity
+### Core Cybersecurity
 
-- CompTIA – Security+  
-  [View Certificate](Certificates/Comptia - Security-plus.pdf)
+- [CompTIA – Security+](Certificates/Comptia%20-%20Security-plus.pdf)  
 
 - Cisco – Introduction to Cybersecurity  
   [View Certificate](Certificates/Cisco-Introduction to Cybersecurity.pdf)
 
 ---
 
-## Security Operations & SIEM
+### Security Operations & SIEM
 
 - Microsoft – Security Operations Analyst (SC-200)  
   [View Certificate](certificates/microsoft-sc200.pdf)
@@ -29,7 +28,7 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-## Detection & XDR
+### Detection & XDR
 
 - Palo Alto Networks – Cortex XDR: Investigation & Analysis  
   [View Certificate](certificates/pan-cortex-xdr-investigation-analysis.pdf)
@@ -42,14 +41,14 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-## Offensive Security
+### Offensive Security
 
 - eLearnSecurity – eJPT (Junior Penetration Tester)  
   [View Certificate](certificates/ejpt.pdf)
 
 ---
 
-## Digital Forensics
+### Digital Forensics
 
 - Introduction to Digital Forensics  
   [View Certificate](certificates/introduction-to-digital-forensics.pdf)
