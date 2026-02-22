@@ -6,7 +6,7 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-### Core Cybersecurity
+### 🔐 Core Cybersecurity
 
 - CompTIA – Security+  
   [View Certificate](Certificates/Comptia%20-%20Security-plus.pdf)
@@ -16,17 +16,17 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-### Networking
+### 🌐 Networking
 
 - Cisco – Introduction to Networking
-  [View Certificate](Certificates/Cisco%20-%20Networking%20Basics.pdf)  
+  [View Certificate](Certificates/Cisco%20-%20Networking%20Basics.pdf)
 
 - The SecOps Group - Certified Network Security Practitioner (CNSP)
   (In progress) 
 
 ---
 
-### Cloud
+### ☁️ Cloud
 
 - eLearnSecurity – Ine Certified Cloud Associate (ICCA)
   (Pursuing) 
@@ -36,7 +36,7 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-### Security Operations & SIEM
+### 🛡️ Security Operations & SIEM
 
 - Palo Alto Networks – The Fundamentals of Security Operations  
   [View Certificate](Certificates/Palo%20Alto%20-%20The%20Fundamentals%20of%20SOC.pdf)
@@ -52,7 +52,7 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ---
 
-### Detection & XDR
+### 🔍 Detection & XDR
 
 - Palo Alto Networks – Cortex XDR: Security Operation & Integration  
   [View Certificate](Certificates/Palo%20Alto%20-%20XDR%20-%20Security%20operations%20&%20Integrations.pdf)
@@ -70,14 +70,14 @@ These certifications complement my hands-on experience in security monitoring, i
   [View Certificate](Certificates/Udemy%20-%20CrowdStrike%20for%20soc%20analyst.pdf)
 ---
 
-### Offensive Security
+### 🎯 Offensive Security
 
 - eLearnSecurity – eJPT (Junior Penetration Tester)  
   (Pursuing)
 
 ---
 
-### Digital Forensics
+### 🧬 Digital Forensics
 
 - SBT - Introduction to Digital Forensics  
   [View Certificate](Certificates/SBT%20-%20Introduction%20to%20Digital%20Forensics.pdf)
