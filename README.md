@@ -8,47 +8,76 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ### Core Cybersecurity
 
-- [CompTIA – Security+](Certificates/Comptia%20-%20Security-plus.pdf)  
+- CompTIA – Security+
+  [View Certificate](Certificates/Comptia%20-%20Security-plus.pdf)  
 
 - Cisco – Introduction to Cybersecurity  
-  [View Certificate](Certificates/Cisco-Introduction to Cybersecurity.pdf)
+  [View Certificate](Certificates/Cisco-Introduction%20to%20Cybersecurity.pdf)
 
+---
+
+### Networking
+
+- Cisco – Introduction to Networking
+  [View Certificate](Certificates/Cisco%20-%20Networking%20Basics.pdf)  
+
+- The SecOps Group - Certified Network Security Practitioner (CNSP)
+  (In progress) 
+
+---
+
+### Cloud
+
+- eLearnSecurity – Ine Certified Cloud Associate (ICCA)
+  (Pursuing) 
+
+- Udemy – Cloud Security Knowledge
+  [View Certificate](Certificates/Udemy%20-%20Cloud%20Security.pdf) 
+  
 ---
 
 ### Security Operations & SIEM
 
-- Microsoft – Security Operations Analyst (SC-200)  
-  [View Certificate](certificates/microsoft-sc200.pdf)
+- Palo Alto Networks – The Fundamentals of Security Operations  
+  [View Certificate](Certificates/Palo%20Alto%20-%20The%20Fundamentals%20of%20SOC.pdf)
+
+- Microsoft – Configure Microsoft Sentinel environment  
+  [View Certificate](Certificates/Microsoft%20-%20Configure%20Microsoft%20Sentinel.pdf)
 
 - Splunk – Fundamentals 1  
-  [View Certificate](Certificates/splunk - Fundamentals 1.pdf)
+  [View Certificate](Certificates/Splunk%20-%20Fundamentals%201.pdf)
 
 - Splunk – Fundamentals 2  
-  [View Certificate](Certificates/splunk - Fundamentals 2.pdf)  
+  [View Certificate](Certificates/Splunk%20-%20Fundamentals%202.pdf)  
 
 ---
 
 ### Detection & XDR
 
+- Palo Alto Networks – Cortex XDR: Security Operation & Integration  
+  [View Certificate](Certificates/Palo%20Alto%20-%20XDR%20-%20Security%20operations%20&%20Integrations.pdf)
+
 - Palo Alto Networks – Cortex XDR: Investigation & Analysis  
-  [View Certificate](certificates/pan-cortex-xdr-investigation-analysis.pdf)
+  [View Certificate](Certificates/Palo%20Alto%20-%20XDR%20-%20Investigation%20&%20Anlaysis.pdf)
 
 - Palo Alto Networks – Cortex XSIAM: SOC, Integration & Automation  
-  [View Certificate](certificates/pan-cortex-xsiam-soc-integration-automation.pdf)
+  [View Certificate](Certificates/Palo%20Alto%20-%20XSIAM-%20SOC,%20integration%20&%20automation.pdf)
 
 - Palo Alto Networks – Cortex XSIAM: Investigation & Analysis  
-  [View Certificate](certificates/pan-cortex-xsiam-investigation-analysis.pdf)
+  [View Certificate](Certificates/Palo%20Alto%20-%20XSIAM%20-%20Investigation%20&%20Analysis.pdf)
 
+- Udemy – CrowdStrike for SOC Analyst  
+  [View Certificate](Certificates/Udemy%20-%20CrowdStrike%20for%20soc%20analyst.pdf)
 ---
 
 ### Offensive Security
 
 - eLearnSecurity – eJPT (Junior Penetration Tester)  
-  [View Certificate](certificates/ejpt.pdf)
+  (Pursuing)
 
 ---
 
 ### Digital Forensics
 
-- Introduction to Digital Forensics  
-  [View Certificate](certificates/introduction-to-digital-forensics.pdf)
+- SBT - Introduction to Digital Forensics  
+  [View Certificate](Certificates/SBT%20-%20Introduction%20to%20Digital%20Forensics.pdf)
