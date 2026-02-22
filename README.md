@@ -33,7 +33,7 @@ These certifications complement my hands-on experience in security monitoring, i
 
 - Udemy – Cloud Security Knowledge
   [View Certificate](Certificates/Udemy%20-%20Cloud%20Security.pdf) 
-  
+
 ---
 
 ### Security Operations & SIEM
