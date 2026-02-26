@@ -21,8 +21,9 @@ These certifications complement my hands-on experience in security monitoring, i
 - Cisco – Introduction to Networking  
   [View Certificate](Certificates/Cisco%20-%20Networking%20Basics.pdf)
 
-- The SecOps Group - Certified Network Security Practitioner (CNSP)
-  (In progress) 
+- The SecOps Group - Certified Network Security Practitioner (CNSP)  
+  [View Certificate](Certificates/TSG-CertifiedNetworkSecurityPractitioner(CNSP).pdf)
+
 
 ---
 
