@@ -39,6 +39,9 @@ These certifications complement my hands-on experience in security monitoring, i
 
 ### 🛡️ Security Operations & SIEM
 
+- Splunk – Certified Cybersecurity Defense Analyst  
+  [View Certificate](Certificates/Palo%20Alto%20-%20The%20Fundamentals%20of%20SOC.pdf)
+
 - Palo Alto Networks – The Fundamentals of Security Operations  
   [View Certificate](Certificates/Palo%20Alto%20-%20The%20Fundamentals%20of%20SOC.pdf)
 
